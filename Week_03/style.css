@@ -1,0 +1,12 @@
+body {
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5%;
+}
+
+.Menu {
+    padding: 5%;
+  display: flex;     
+  flex-direction: row; 
+  gap: 10px;        
+}
+
