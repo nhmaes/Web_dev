@@ -1,0 +1,24 @@
+Open source:
+Software whose source code is available for people to inspect, use, and often modify or share under a license.
+Closed source: 
+Software whose source code is kept private and can only be used under the owner's terms.
+Trojan horse: 
+Malicious software disguised as a harmless or useful program, which can carry out unwanted actions once installed.
+Cyberspace: 
+The interconnected digital world of the internet, computers, and online communication.
+Cyberwarfare: 
+The use of cyberattacks by or on behalf of a country to disrupt, damage, or spy on another country's systems.
+Cyberfeminism: 
+The study and use of digital technology to explore or challenge gender inequality and advance feminist ideas.
+Fibre: 
+A thin strand of material; in technology, fibre-optic cable carries data as pulses of light.
+Censorship: 
+The control or suppression of information, speech, or media that an authority considers objectionable.
+Emerging tech: 
+New or rapidly developing technology that may significantly affect how people live or work.
+Malware: 
+Software designed to harm, disrupt, spy on, or gain unauthorized access to a device or computer system.
+The Cloud: 
+A way of storing data and using software or computing power on remote internet-connected servers instead of only on a personal device.
+Cookies: 
+Small pieces of data that a website stores in your browser to remember information, such as your preferences or whether you are signed in.
